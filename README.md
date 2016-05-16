@@ -1,2 +1,3 @@
 # hello-world
-Hello World repository
+Hello Humans!
+This is some text for the hello-world tutorial :)
